@@ -1,2 +1,3 @@
 # kafka-etl-cli
-CLI for ingesting metadata from Kafka into Datahub
+
+CLI for ingesting metadata from Confluent Schema Registry into Datahub.
